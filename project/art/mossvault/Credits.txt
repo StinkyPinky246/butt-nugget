@@ -1,0 +1,5 @@
+Mossvault Dungeon Free v0.2.0 by LeewayStudio
+https://leewaystudio.itch.io/mossvault-dungeon-free
+Bounce Back uses the atlas and adapted Godot TileSet inside its arena scene.
+LeewayStudio describes the artwork as deterministic pixel geometry made with Python/Pillow.
+AI assisted the pack's code and documentation. No image-generation model was used for the art.
